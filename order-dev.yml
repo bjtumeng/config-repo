@@ -7,7 +7,7 @@ spring:
     password: root
     url: jdbc:mysql://127.0.0.1:3306/springcloud_sell?characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
 env:
-  dev12
+  dev45
 girl:
   name: lily1213
   age: 19
